@@ -25,14 +25,6 @@ app.get('/notes', (req, res) => {
 })
 
 
-
-
-
-
-
-
-
-
 app.get('/', (req, res) => {
     res.send('Fede, Speranza e Carita');
 });
